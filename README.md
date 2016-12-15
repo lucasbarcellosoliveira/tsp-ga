@@ -6,6 +6,7 @@ A genetic algorithm to solve the Traveling Salesman Problem (TSP) in its euclide
 Desenvolvido como parte da avaliação da disciplina Teoria dos Grafos do curso de Engenharia de Computação e Informação da Universidade Federal do Rio de Janeiro (UFRJ).
 Developed as an assignment from Graph Theory class in Computer and Information Engineering in Rio de Janeiro Federal University.
 
+///
 
 Points.h describes a single point (or vertex) in a the euclidean graph on which the algorithm will run.
 Cadidate.h describes a single (optimal or non-optimal) solution for the problem.
